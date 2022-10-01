@@ -9,7 +9,7 @@
 #define SMTP_PORT 465
 // Credenciais
 #define AUTHOR_EMAIL "leonardoww26@gmail.com"
-#define AUTHOR_PASSWORD "rylugzltgkdwaltm"
+#define AUTHOR_PASSWORD ""
 // Para
 #define RECIPIENT_EMAIL "leonardoww26@gmail.com"
 // Sessão SMTP usado para envio de e-mail
